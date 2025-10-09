@@ -1,4 +1,7 @@
 *.txt
+*.npy
+*.faiss
+*.bk
 /venv
 /novels
 
